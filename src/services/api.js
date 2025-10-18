@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:5005/api';
+const API_BASE = 'https://hospital-management-backend-production-39e6.up.railway.app/api';
 
 // API service functions
 export const apiService = {
