@@ -1,4 +1,4 @@
-const API_BASE = 'https://hospital-management-backend-production-39e6.up.railway.app/api';
+const API_BASE = process.env.REACT_APP_API_URL || 'https://hospital-management-backend-production-39e6.up.railway.app/api';
 
 // API service functions
 export const apiService = {

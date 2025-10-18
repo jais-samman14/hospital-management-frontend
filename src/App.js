@@ -128,7 +128,6 @@ function App() {
         <header className="header">
           <div className="header-content">
             <h1>🏥 Hospital Management System</h1>
-            <p> Loading Application {connectionStatus}</p>
           </div>
         </header>
         <div className="loading">
